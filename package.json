@@ -1,0 +1,42 @@
+{
+  "name": "machine-learning-with-javascript",
+  "version": "1.0.0",
+  "description": "Repository for training machine learning with JavaScript",
+  "engines": {
+    "node": "8.x",
+    "npm": "5.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexdevero/machine-learning-with-javascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "machinelearning",
+    "ai"
+  ],
+  "author": {
+    "name": "Alex Devero",
+    "url": "https://github.com/alexdevero"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexdevero/machine-learning-with-javascript/issues"
+  },
+  "homepage": "https://github.com/alexdevero/machine-learning-with-javascript#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.6",
+    "ml-regression": "^4.2.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-preset-env": "^1.5.2",
+    "babel-register": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
