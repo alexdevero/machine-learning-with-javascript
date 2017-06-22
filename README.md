@@ -2,7 +2,7 @@
 
 Repository for training machine learning with JavaScript.
 
-This repository is based on a series on [Machine Learning with JavaScript : Part 1](https://medium.com/@abhisheksoni2720/machine-learning-in-javascript-part-1) on Medium.com.
+This repository is based on a series on Machine Learning with JavaScript : Part 1 on [Medium.com](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5).
 
 ## Get started
 
