@@ -60,8 +60,22 @@ function f(s) {
 }
 
 function predictOutput() {
+  // Ask the user for input
   rl.question('Enter input X for prediction (Press CTRL+C to exit) : ', (answer) => {
+    // Log output to console
     console.log(`At X = ${answer}, y =  ${regressionModel.predict(parseFloat(answer))}`);
+
+    // Add ability to read from / write to files
+    const fs = require('fs');
+    const path = "./results.txt";
+    let data = `At X = ${answer}, y =  ${regressionModel.predict(parseFloat(answer))}\r\n`; // \r\n are linebreaks
+    const logStream = fs.createWriteStream(path, {'flags': 'a'}); // use {'flags': 'a'} to append and {'flags': 'w'} to erase and write a new file
+
+    // Write results into txt file
+    logStream.write(data);
+    logStream.end('');
+
+    // Initiate predictOutput function
     predictOutput();
   });
 }
