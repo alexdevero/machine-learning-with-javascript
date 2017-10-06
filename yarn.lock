@@ -630,9 +630,9 @@ core-util-is@~1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
 
-csvtojson@^1.1.7:
-  version "1.1.7"
-  resolved "https://registry.yarnpkg.com/csvtojson/-/csvtojson-1.1.7.tgz#17ded07aec0d8c01f2d6f6871cfa36ab88b149b1"
+csvtojson@^1.1.8:
+  version "1.1.8"
+  resolved "https://registry.yarnpkg.com/csvtojson/-/csvtojson-1.1.8.tgz#e64e5e98e65fde7e6fd01436cb5de0ac7d1dda70"
   dependencies:
     lodash "^4.17.3"
     strip-bom "1.0.0"
