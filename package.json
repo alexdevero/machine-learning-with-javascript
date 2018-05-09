@@ -30,14 +30,14 @@
   },
   "homepage": "https://github.com/alexdevero/machine-learning-with-javascript#readme",
   "dependencies": {
-    "csvtojson": "^1.1.9",
+    "csvtojson": "^1.1.12",
     "ml-regression": "^4.4.2"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
+    "babel-core": "^6.26.3",
     "babel-preset-env": "^1.6.1",
     "babel-register": "^6.26.0",
     "gulp": "^3.9.1",
-    "gulp-babel": "^7.0.0"
+    "gulp-babel": "^7.0.1"
   }
 }
