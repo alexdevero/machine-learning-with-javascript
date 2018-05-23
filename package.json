@@ -34,9 +34,8 @@
     "ml-regression": "^4.4.2"
   },
   "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-preset-env": "^1.7.0",
-    "babel-register": "^6.26.0",
+    "@babel/core": "^7.0.0-beta.47",
+    "@babel/preset-env": "^7.0.0-beta.47",
     "gulp": "^3.9.1",
     "gulp-babel": "^7.0.1"
   }
