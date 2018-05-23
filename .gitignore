@@ -3,6 +3,7 @@
 .tmp/
 dist/
 node_modules/
+results.txt
 
 # Folder config file #
 ######################
