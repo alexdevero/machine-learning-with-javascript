@@ -16,9 +16,14 @@
     "url": "git+https://github.com/alexdevero/machine-learning-with-javascript.git"
   },
   "keywords": [
+    "ai",
+    "artificial",
+    "artificial intelligence",
     "javascript",
-    "machinelearning",
-    "ai"
+    "js",
+    "learning",
+    "machine",
+    "machine-learning",
   ],
   "author": {
     "name": "Alex Devero",
