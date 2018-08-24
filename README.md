@@ -1,3 +1,26 @@
+<p align="center">
+  <a href="https://badgen.net/circleci/github/alexdevero/machine-learning-with-javascript/">
+    <img alt="Dependency Status" src="https://circleci.com/gh/alexdevero/machine-learning-with-javascript.svg?style=shield&circle-token=:circle-token" />
+  </a>
+  <a href="https://david-dm.org/alexdevero/machine-learning-with-javascript">
+    <img alt="Dependency Status" src="https://badgen.net/david/dep/alexdevero/machine-learning-with-javascript" />
+  </a>
+  <a href="https://david-dm.org/alexdevero/machine-learning-with-javascript?type=dev">
+    <img alt="devDependency Status" src="https://badgen.net/david/dev/alexdevero/machine-learning-with-javascript" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://alexdevero.com">
+    <img alt="Built by DEVERO" src="https://badgen.net/badge/build%20by/DEVERO/d30320" />
+  </a>
+
+  <a href="">
+    <img alt="Template price" src="https://badgen.net/badge/license/MIT/green" />
+  </a>
+</p>
+
+
 # Machine Learning with JavaScript
 
 Repository for training machine learning with JavaScript.
