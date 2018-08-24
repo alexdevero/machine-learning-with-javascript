@@ -34,8 +34,14 @@ This repository is based on a multiple resources. One resource is series on Mach
 
 That's it.
 
-Run the following command to run your model.
+Run the following command to run linear regression model.
 
-```bash
-node src/scripts/index.js
 ```
+npm run start:lr
+```
+
+## Tutorials to finish
+
+- [ ] - https://www.burakkanber.com/blog/machine-learning-genetic-algorithms-part-1-javascript/
+- [ ] - https://www.burakkanber.com/blog/machine-learning-genetic-algorithms-part-2-javascript/
+- [ ] - https://github.com/llSourcell/How_to_make_an_evolutionary_tetris_bot
