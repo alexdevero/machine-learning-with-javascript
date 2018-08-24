@@ -42,6 +42,6 @@ npm run start:lr
 
 ## Tutorials to finish
 
-- [ ] - https://www.burakkanber.com/blog/machine-learning-genetic-algorithms-part-1-javascript/
-- [ ] - https://www.burakkanber.com/blog/machine-learning-genetic-algorithms-part-2-javascript/
-- [ ] - https://github.com/llSourcell/How_to_make_an_evolutionary_tetris_bot
+- [ ] - [Machine learning genetic algorithms part 1](https://www.burakkanber.com/blog/machine-learning-genetic-algorithms-part-1-javascript/)
+- [ ] - [Machine learning genetic algorithms part 2](https://www.burakkanber.com/blog/machine-learning-genetic-algorithms-part-2-javascript/)
+- [ ] - [How to make an evolutionary tetris bot](https://github.com/llSourcell/How_to_make_an_evolutionary_tetris_bot)
